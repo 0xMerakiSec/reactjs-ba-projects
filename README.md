@@ -12,7 +12,7 @@
 
 Welcome to **My Awesome React Project**! This project is my journey of learning reactjs. It consists few of many projects. 
 
-![Demo GIF]([https://media.giphy.com/media/xT9IgxPqe6R9s4Pq9W/giphy.gif](https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif)) <!-- Replace with a relevant demo GIF -->
+![Demo GIF]([https://cdn.pixabay.com/animation/2024/09/09/14/14/14-14-48-336_512.gif]) <!-- Replace with a relevant demo GIF -->
 
 
 
